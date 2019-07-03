@@ -2,7 +2,7 @@
 layout: posts
 title: React-Redux store 配置
 date: 2019-07-03 15:29:00
-tags: ["React", "React-Redux"]
+tags: ["react", "react-redux"]
 ---
 ### modules/index.js
 ``` javascript

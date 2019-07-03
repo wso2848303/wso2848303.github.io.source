@@ -2,7 +2,7 @@
 layout: posts
 title: axios全局拦截
 date: 2019-07-03 14:08:06
-tags: ["Axios", "requests"]
+tags: ["axios", "requests"]
 ---
 ``` javascript
 import axios from 'axios';

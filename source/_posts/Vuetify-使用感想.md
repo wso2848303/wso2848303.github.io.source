@@ -2,7 +2,7 @@
 layout: posts
 title: Vuetify 使用感想
 date: 2019-07-03 14:24:00
-tags: ["Vue", "Vuetify"]
+tags: ["vue", "vuetify"]
 ---
 使用前提
 
