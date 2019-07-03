@@ -2,7 +2,7 @@
 layout: posts
 title: React 16 Context Provider/Consumer
 date: 2019-07-03 14:50:36
-tags: ["React"]
+tags: ["react"]
 ---
 
 ``` javascript
